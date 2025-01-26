@@ -1,8 +1,7 @@
-##  <h1 align="center">Hi there 👋</h1>
-
 <div> 
  
 ![image alt](https://github.com/kaluumah/kaluumah/blob/6c5fd2cbd75f0c2221909cc3c66d7447a122a9d9/Black%20and%20Yellow%20Modern%20Coming%20Soon%20Twitter%20Header.png)
+
 <hr>
 <h3 align="center">Cybersecurity enthusiast and software developer passionate about digital protection. Committed to safeguarding individuals and organizations through innovative security solutions and cutting-edge technology. Dedicated to building a more secure digital ecosystem, one line of code at a time. one project at a time. Open to collaborate, learn, and grow together! 🚀</h3>
 
