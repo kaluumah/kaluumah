@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaluumah&label=Profile%20views&color=0e75b6&style=flat" alt="kaluumah" /> </p>
  
 
-- 🌱 Currently learning **Ethical Hacking, Python programming and Web Developement**
+- 🌱 Currently learning **Ethical Hacking, Python programming**
 
 - 👯 looking to collaborate on **Webs and Cybersecurity projects**
 
