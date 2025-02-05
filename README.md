@@ -3,7 +3,42 @@
 ![image alt](https://github.com/kaluumah/kaluumah/blob/6c5fd2cbd75f0c2221909cc3c66d7447a122a9d9/Black%20and%20Yellow%20Modern%20Coming%20Soon%20Twitter%20Header.png)
 
 <hr>
-<h3 align="center">Cybersecurity enthusiast and software developer passionate about digital protection. Committed to safeguarding individuals and organizations through innovative security solutions and cutting-edge technology. Dedicated to building a more secure digital ecosystem, one line of code at a time. one project at a time. Open to collaborate, learn, and grow together! 🚀</h3>
+
+# 👋 Hello, Fellow Tech Enthusiasts!
+
+I'm a Full Stack Web Developer with a burning passion for cybersecurity and ethical hacking. At the intersection of web development and security, I'm crafting a path that combines creative problem-solving with robust security practices.
+
+## 💡 Vision & Drive
+
+My journey is driven by the belief that great software must be both powerful and secure. I'm constantly pushing my boundaries, learning new technologies, and exploring the intricate world of cybersecurity. My goal? To become a professional Ethical Hacker and Software Engineer who not only builds amazing applications but also ensures they're fortified against modern threats. Furthermore, I aim to help people secure their data from malicious hackers and join hands with other Ethical Hackers and security conscious people to secure the society and our world in general.
+
+## 🛡️ Security Journey
+
+Currently deep-diving into ethical hacking, I'm learning and honing my skills through:
+- Cisco Ethical Hacking course
+- Going through Ethical Hacking related books
+- Practical penetration testing exercises
+- Web application security assessments
+- Network security analysis
+- Vulnerability research and responsible disclosure
+- Joining course related conferences and programs etc
+
+Each challenge I tackle strengthens my understanding of both offense and defense in cybersecurity, making me a more security-conscious developer.
+
+## 🔐 Current Project: CycleCipher
+
+I'm currently working on CycleCipher - a project that's reimagining password management for the modern web. This isn't just another password manager; it's my vision of how we can make robust security accessible and user-friendly.
+
+CycleCipher combines cutting-edge encryption with intuitive design, aiming to solve the eternal struggle between security and convenience. Stay tuned for updates as this project evolves!
+
+## 🚀 Always Learning, Always Growing
+
+Every line of code I write and every security challenge I tackle is a step toward my goal of mastering both development and security. I believe in transparency, continuous learning, and sharing knowledge with the community.
+
+Let's connect and build a more secure digital future together! Feel free to explore my repositories and reach out for collaborations.
+
+---
+### *"Security is not a product, but a process." - Bruce Schneier*
 
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaluumah&label=Profile%20views&color=0e75b6&style=flat" alt="kaluumah" /> </p>
